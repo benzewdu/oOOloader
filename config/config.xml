@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+    <sheet>
+
+        <builds>
+            <build name="1.5.0_06 05" path="C:/temp/alacrity.logs"/>
+            <build name="1.6.0 67" path="C:/temp/alacrity.logs"/>
+        </builds>
+
+        <document>
+            <title>Competitive Landscape Client Windows</title>
+            <chart title="Competitive Landscape Client Windows" type="" width="" height=""/>
+        </document>
+
+
+        <benchmarks name="scimark,specjvm98"/>
+
+<!--_
+        <baseUrls>
+            http://alacrity.ireland.sun.com/net/irperf2/export/results9/,http://alacrity.ireland.sun.com/net/irperf/export/results9/
+        </baseUrls>
+
+        <machine os="xp_pro_ntfs" name="perx-10"/>
+
+        <runTypes>_32_noops_,_</runTypes>-->
+
+    </sheet>
+</config>
